@@ -1,0 +1,6 @@
+@Zorvyn_HostAddress = http://localhost:5182
+
+GET {{Zorvyn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
